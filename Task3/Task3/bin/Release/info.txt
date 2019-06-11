@@ -1,0 +1,2 @@
+Town: London, temperature: 16,94 degrees Celsius, humidity: 52%, 
+ sunrise time: 08.06.2019 3:44:57, sunset time: 08.06.2019 20:14:19

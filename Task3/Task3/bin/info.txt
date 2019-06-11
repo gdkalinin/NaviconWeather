@@ -1,0 +1,33 @@
+Town: London, temperature: 16,94 degrees Celsius, humidity: 52%, 
+ sunrise time: 08.06.2019 3:44:57, sunset time: 08.06.2019 20:14:19 
+
+Town: London, temperature: 16,86 degrees Celsius, humidity: 45%, 
+ sunrise time: 08.06.2019 3:44:57, sunset time: 08.06.2019 20:14:19 
+
+Town: Moscow, temperature: 29,39 degrees Celsius, humidity: 39%, 
+ sunrise time: 08.06.2019 0:47:46, sunset time: 08.06.2019 18:09:28 
+
+Town: Moscow, temperature: 29,7 degrees Celsius, humidity: 39%, 
+ sunrise time: 08.06.2019 0:47:46, sunset time: 08.06.2019 18:09:28 
+
+Town:  ÛÏ, temperature: 23,49 degrees Celsius, humidity: 21%, 
+ sunrise time: 07.06.2019 23:38:57, sunset time: 08.06.2019 14:41:55 
+
+Town: Moscow, temperature: 29,7 degrees Celsius, humidity: 39%, 
+ sunrise time: 08.06.2019 0:47:46, sunset time: 08.06.2019 18:09:28 
+
+Town: 123, temperature: 29,13 degrees Celsius, humidity: 74%, 
+ sunrise time: 07.06.2019 21:26:08, sunset time: 08.06.2019 10:24:03 
+
+Town: 145, temperature: 29,13 degrees Celsius, humidity: 74%, 
+ sunrise time: 07.06.2019 21:26:05, sunset time: 08.06.2019 10:24:06 
+
+Town: 154, temperature: 29,13 degrees Celsius, humidity: 74%, 
+ sunrise time: 07.06.2019 21:26:03, sunset time: 08.06.2019 10:24:03 
+
+Town: 123, temperature: 29,13 degrees Celsius, humidity: 74%, 
+ sunrise time: 07.06.2019 21:26:08, sunset time: 08.06.2019 10:24:03 
+
+Town: Uryupinsk, temperature: 29,41 degrees Celsius, humidity: 36%, 
+ sunrise time: 08.06.2019 1:00:11, sunset time: 08.06.2019 17:21:56 
+

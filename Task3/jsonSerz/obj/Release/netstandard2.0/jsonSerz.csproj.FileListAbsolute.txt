@@ -1,0 +1,9 @@
+D:\Task3\jsonSerz\bin\Release\netstandard2.0\jsonSerz.deps.json
+D:\Task3\jsonSerz\bin\Release\netstandard2.0\jsonSerz.dll
+D:\Task3\jsonSerz\obj\Release\netstandard2.0\jsonSerz.csprojResolveAssemblyReference.cache
+D:\Task3\jsonSerz\obj\Release\netstandard2.0\jsonSerz.csproj.CoreCompileInputs.cache
+D:\Task3\jsonSerz\obj\Release\netstandard2.0\jsonSerz.AssemblyInfoInputs.cache
+D:\Task3\jsonSerz\obj\Release\netstandard2.0\jsonSerz.AssemblyInfo.cs
+D:\Task3\jsonSerz\bin\Release\netstandard2.0\jsonSerz.pdb
+D:\Task3\jsonSerz\obj\Release\netstandard2.0\jsonSerz.dll
+D:\Task3\jsonSerz\obj\Release\netstandard2.0\jsonSerz.pdb
